@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://tangzhiqian.coding.me/</id>
+    <title>Blog-AndyTang</title>
+    <updated>2019-09-22T08:30:58.962Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://tangzhiqian.coding.me/"/>
+    <link rel="self" href="http://tangzhiqian.coding.me//atom.xml"/>
+    <subtitle>湖水是你的眼神 梦想满天星辰</subtitle>
+    <logo>http://tangzhiqian.coding.me//images/avatar.png</logo>
+    <icon>http://tangzhiqian.coding.me//favicon.ico</icon>
+    <rights>All rights reserved 2019, Blog-AndyTang</rights>
+    <entry>
+        <title type="html"><![CDATA[优酷爱奇艺腾讯视频转mp4]]></title>
+        <id>http://tangzhiqian.coding.me//post/20190922-1</id>
+        <link href="http://tangzhiqian.coding.me//post/20190922-1">
+        </link>
+        <updated>2019-09-22T02:37:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>老师们上课播放的视频，还都专门下载个优酷或者腾讯视频的客户端来播放。（比如上学期书法课）遇到电脑上没有客户端的，根本就播放不了。</p>
+<p>本文章将分享三大平台格式转mp4工具</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>老师们上课播放的视频，还都专门下载个优酷或者腾讯视频的客户端来播放。（比如上学期书法课）遇到电脑上没有客户端的，根本就播放不了。</p>
+<p>本文章将分享三大平台格式转mp4工具</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>http://tangzhiqian.coding.me//post/About</id>
+        <link href="http://tangzhiqian.coding.me//post/About">
+        </link>
+        <updated>2019-08-03T05:44:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>Github：<a href="https://github.com/TangZhiqian0120">TangZhiqian0120</a><br>
+Coding：<a href="https://dev.tencent.com/u/TangZhiqian">TangZhiqian</a><br>
+新浪微博：<a href="https://weibo.com/u/5978528243">AndyZQTang</a><br>
+Email：andy012006@163.com</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Github：<a href="https://github.com/TangZhiqian0120">TangZhiqian0120</a><br>
+Coding：<a href="https://dev.tencent.com/u/TangZhiqian">TangZhiqian</a><br>
+新浪微博：<a href="https://weibo.com/u/5978528243">AndyZQTang</a><br>
+Email：andy012006@163.com</p>
+]]></content>
+    </entry>
+</feed>
